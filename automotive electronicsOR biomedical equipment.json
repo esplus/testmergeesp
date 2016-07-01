@@ -1,0 +1,280 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - [\"automotive electronics\"] OR [\"biomedical equipment\"]",
+    "totalResults": "431",
+    "searchTerms": "[\"automotive electronics\"] OR [\"biomedical equipment\"]",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017754066774365358043:lyjyorqiptq"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - [\"automotive electronics\"] OR [\"biomedical equipment\"]",
+    "totalResults": "431",
+    "searchTerms": "[\"automotive electronics\"] OR [\"biomedical equipment\"]",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017754066774365358043:lyjyorqiptq"
+   }
+  ]
+ },
+ "context": {
+  "title": "Theiet.org"
+ },
+ "searchInformation": {
+  "searchTime": 0.15957,
+  "formattedSearchTime": "0.16",
+  "totalResults": "431",
+  "formattedTotalResults": "431"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "AHT 2012 - 7.2 Abstract 0016",
+   "htmlTitle": "AHT 2012 - 7.2 Abstract 0016",
+   "link": "http://www.theiet.org/communities/healthtech/aht/documents/7-2abstract0016.cfm?type=pdf",
+   "displayLink": "www.theiet.org",
+   "snippet": "FILENAME 7.2 Abstract 0016. Provision of biomedical equipment reference texts \nand manuals on e-readers in resource-poor settings. R. A. Malkin, L. Gu, ...",
+   "htmlSnippet": "FILENAME 7.2 Abstract 0016. Provision of \u003cb\u003ebiomedical equipment\u003c/b\u003e reference texts \u003cbr\u003e\nand manuals on e-readers in resource-poor settings. R. A. Malkin, L. Gu,&nbsp;...",
+   "cacheId": "Xzb8NkWQSyUJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.theiet.org/communities/healthtech/aht/.../7-2abstract0016.cfm?...",
+   "htmlFormattedUrl": "www.theiet.org/communities/healthtech/aht/.../7-2abstract0016.cfm?...",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "jlucas",
+      "creationdate": "D:20120912120628+01'00'",
+      "creator": "PScript5.dll Version 5.2",
+      "moddate": "D:20120919103243+01'00'",
+      "producer": "Acrobat Distiller 7.0.5 (Windows)",
+      "subject": "Provision of biomedical equipment reference texts and manuals on e-readers in resource-poor settings",
+      "title": "AHT 2012 - 7.2 Abstract 0016"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Winner Presentation (512 k)",
+   "htmlTitle": "Winner Presentation (512 k)",
+   "link": "http://www.theiet.org/events/2010/digests/appropriate-healthcare/winner-khambete.cfm?type=pdf",
+   "displayLink": "www.theiet.org",
+   "snippet": "Apr 28, 2010 ... Engg. Certification Programme. • National level examination and registry. • \nAccreditation of training centres. • Biomedical Equipment Technician.",
+   "htmlSnippet": "Apr 28, 2010 \u003cb\u003e...\u003c/b\u003e Engg. Certification Programme. • National level examination and registry. • \u003cbr\u003e\nAccreditation of training centres. • \u003cb\u003eBiomedical Equipment\u003c/b\u003e Technician.",
+   "cacheId": "P4KZ1sjQAoIJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.theiet.org/events/2010/digests/.../winner-khambete.cfm?type...",
+   "htmlFormattedUrl": "www.theiet.org/events/2010/digests/.../winner-khambete.cfm?type...",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20100513124941+01'00'",
+      "author": "BMTWing",
+      "creator": "Acrobat PDFMaker 7.0.5 for PowerPoint",
+      "producer": "Acrobat Distiller 7.0.5 (Windows)",
+      "moddate": "D:20100513124954+01'00'",
+      "company": "SCTIMST",
+      "title": "SAFETY OF MEDICAL EQUIPMENT:  A REVIEW OF HOSPITAL SAFETY TESTING  IN THE INDIAN CITY OF PUNE"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Full paper template_PEMD",
+   "htmlTitle": "Full paper template_PEMD",
+   "link": "http://www.theiet.org/events/2012/digests/aht/6-4-0060.cfm",
+   "displayLink": "www.theiet.org",
+   "snippet": "department to acquire biomedical equipment and related services. ... department \nto inventory and inspect biomedical equipment. One attachment includes: new ...",
+   "htmlSnippet": "department to acquire \u003cb\u003ebiomedical equipment\u003c/b\u003e and related services. ... department \u003cbr\u003e\nto inventory and inspect \u003cb\u003ebiomedical equipment\u003c/b\u003e. One attachment includes: new&nbsp;...",
+   "cacheId": "iOxWNiJObrsJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.theiet.org/events/2012/digests/aht/6-4-0060.cfm",
+   "htmlFormattedUrl": "www.theiet.org/events/2012/digests/aht/6-4-0060.cfm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "x-raw-image:///b6bc5109f17c464668a13e27de407cb66799d345394ac23970a7163dddf60636"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "263",
+      "height": "192",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSYXShJGlH6yeWGZzpr8XnviVQ5iDjOWz7MXLS9hgECETvhlqSAt1dWkMq-"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Full paper template_PEMD",
+      "author": "The IET",
+      "creator": "Microsoft® Office Word 2007",
+      "creationdate": "D:20120713120401+00'00'",
+      "moddate": "D:20120713120401+00'00'",
+      "producer": "Microsoft® Office Word 2007"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MyIET - IET Org",
+   "htmlTitle": "MyIET - IET Org",
+   "link": "http://www.theiet.org/my/profile/prstockwell",
+   "displayLink": "www.theiet.org",
+   "snippet": "Experienced and commercially aware Project Manager, Designer, and Engineer \nwith expertise in the areas of Automotive Electronics including Vehicle Security, ...",
+   "htmlSnippet": "Experienced and commercially aware Project Manager, Designer, and Engineer \u003cbr\u003e\nwith expertise in the areas of \u003cb\u003eAutomotive Electronics\u003c/b\u003e including Vehicle Security,&nbsp;...",
+   "cacheId": "-Q7AGqcpfUEJ",
+   "formattedUrl": "www.theiet.org/my/profile/prstockwell",
+   "htmlFormattedUrl": "www.theiet.org/my/profile/prstockwell",
+   "pagemap": {
+    "metatags": [
+     {
+      "rx_contentid": "$contentID",
+      "rx_contenttypeid": "$contentTypeID",
+      "rx_contenttypelabel": "$contentTypeLabel",
+      "rx_lastmodifieddate": "$lastModifiedDate"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MEMS to NEMS - The IET",
+   "htmlTitle": "MEMS to NEMS - The IET",
+   "link": "http://www.theiet.org/resources/inspec/support/subject-guides/memstonems.cfm",
+   "displayLink": "www.theiet.org",
+   "snippet": "accelerometers; atomic force microscopy; automotive electronics; carbon \nnanotubes; electrical discharge machining; electron beam lithography; \nelectroplating ...",
+   "htmlSnippet": "accelerometers; atomic force microscopy; \u003cb\u003eautomotive electronics\u003c/b\u003e; carbon \u003cbr\u003e\nnanotubes; electrical discharge machining; electron beam lithography; \u003cbr\u003e\nelectroplating&nbsp;...",
+   "cacheId": "pAObCGMA-KYJ",
+   "formattedUrl": "www.theiet.org/resources/inspec/support/subject.../memstonems.cfm",
+   "htmlFormattedUrl": "www.theiet.org/resources/inspec/support/subject.../memstonems.cfm",
+   "pagemap": {
+    "metatags": [
+     {
+      "contentid": "111311",
+      "resource type": "General",
+      "date": "31 October 2011"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Medical device regulations and patient safety in developing countries",
+   "htmlTitle": "Medical device regulations and patient safety in developing countries",
+   "link": "http://www.theiet.org/events/2010/digests/appropriate-healthcare/regulations-patient-safety.cfm?type=pdf",
+   "displayLink": "www.theiet.org",
+   "snippet": "Health Technology”, Rio de Janeiro, Brazil, 08-09, November 2009. 13. World \nHealth Organization. “Biomedical equipment and maintenance”. Mission Report.",
+   "htmlSnippet": "Health Technology”, Rio de Janeiro, Brazil, 08-09, November 2009. 13. World \u003cbr\u003e\nHealth Organization. “\u003cb\u003eBiomedical equipment\u003c/b\u003e and maintenance”. Mission Report.",
+   "cacheId": "WumWbCj1tXwJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.theiet.org/events/2010/.../regulations-patient-safety.cfm?type...",
+   "htmlFormattedUrl": "www.theiet.org/events/2010/.../regulations-patient-safety.cfm?type...",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20100430100904+01'00'",
+      "subject": "Medical device regulations and patient safety in developing countries",
+      "author": "M. Cheng",
+      "creator": "PScript5.dll Version 5.2.2",
+      "producer": "Acrobat Distiller 7.0.5 (Windows)",
+      "moddate": "D:20100507112537+01'00'",
+      "title": "Medical device regulations and patient safety in developing countries"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "IET Forums - Systems Engineering Bookshelf....",
+   "htmlTitle": "IET Forums - Systems Engineering Bookshelf....",
+   "link": "http://www.theiet.org/forums/forum/messageview.cfm?FTVAR_FORUMVIEWTMP=Threaded&catid=223&threadid=1121",
+   "displayLink": "www.theiet.org",
+   "snippet": "Apr 19, 2002 ... Automotive Electronics \"Somewhere in France\". Top : Bottom. 14 August 2002 11\n:00 AM. User is offline View Users Profile Print this message.",
+   "htmlSnippet": "Apr 19, 2002 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eAutomotive Electronics\u003c/b\u003e &quot;Somewhere in France&quot;. Top : Bottom. 14 August 2002 11\u003cbr\u003e\n:00 AM. User is offline View Users Profile Print this message.",
+   "cacheId": "wFJYOubvvHcJ",
+   "formattedUrl": "www.theiet.org/forums/forum/messageview.cfm?FTVAR...",
+   "htmlFormattedUrl": "www.theiet.org/forums/forum/messageview.cfm?FTVAR..."
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "IET Forums - Communication System in a Railway System",
+   "htmlTitle": "IET Forums - Communication System in a Railway System",
+   "link": "http://www.theiet.org/forums/forum/messageview.cfm?catid=227&threadid=28458",
+   "displayLink": "www.theiet.org",
+   "snippet": "Jan 8, 2009 ... Suitable pre-reading? Limits on store-and-forward scenarios? ------------------------- \nJerry Williams Automotive Electronics \"Somewhere in France\".",
+   "htmlSnippet": "Jan 8, 2009 \u003cb\u003e...\u003c/b\u003e Suitable pre-reading? Limits on store-and-forward scenarios? ------------------------- \u003cbr\u003e\nJerry Williams \u003cb\u003eAutomotive Electronics\u003c/b\u003e &quot;Somewhere in France&quot;.",
+   "cacheId": "Nd57FQyJCDoJ",
+   "formattedUrl": "www.theiet.org/forums/forum/messageview.cfm?catid=227...",
+   "htmlFormattedUrl": "www.theiet.org/forums/forum/messageview.cfm?catid=227..."
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "AHT 2012 - 6.1 Abstract 0048",
+   "htmlTitle": "AHT 2012 - 6.1 Abstract 0048",
+   "link": "http://www.theiet.org/communities/healthtech/aht/documents/6-1abstract0048.cfm?type=pdf",
+   "displayLink": "www.theiet.org",
+   "snippet": "availability of trained CEs and Biomedical Equipment Technicians (BMETs). It \nwas proposed to establish a professional body to carry out certification and ...",
+   "htmlSnippet": "availability of trained CEs and \u003cb\u003eBiomedical Equipment\u003c/b\u003e Technicians (BMETs). It \u003cbr\u003e\nwas proposed to establish a professional body to carry out certification and&nbsp;...",
+   "cacheId": "X4cSoJDfdn8J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.theiet.org/communities/healthtech/aht/.../6-1abstract0048.cfm?...",
+   "htmlFormattedUrl": "www.theiet.org/communities/healthtech/aht/.../6-1abstract0048.cfm?...",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "jlucas",
+      "creationdate": "D:20120912120352+01'00'",
+      "creator": "PScript5.dll Version 5.2",
+      "moddate": "D:20120919102640+01'00'",
+      "producer": "Acrobat Distiller 7.0.5 (Windows)",
+      "subject": "National Efforts to Improve Healthcare Technology Management and Medical Device Safety in India",
+      "title": "AHT 2012 - 6.1 Abstract 0048"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "AHT 2012 Abstracts - The IET",
+   "htmlTitle": "AHT 2012 Abstracts - The IET",
+   "link": "http://www.theiet.org/communities/healthtech/aht/2012-abstracts.cfm",
+   "displayLink": "www.theiet.org",
+   "snippet": "Provision of biomedical equipment reference texts and manuals on ... Evaluation \nof the impact of a new biomedical equipment technician curriculum in Rwanda.",
+   "htmlSnippet": "Provision of \u003cb\u003ebiomedical equipment\u003c/b\u003e reference texts and manuals on ... Evaluation \u003cbr\u003e\nof the impact of a new \u003cb\u003ebiomedical equipment\u003c/b\u003e technician curriculum in Rwanda.",
+   "cacheId": "dJpfJyEJTD4J",
+   "formattedUrl": "www.theiet.org/communities/healthtech/aht/2012-abstracts.cfm",
+   "htmlFormattedUrl": "www.theiet.org/communities/healthtech/aht/2012-abstracts.cfm",
+   "pagemap": {
+    "metatags": [
+     {
+      "contentid": "165419",
+      "resource type": "General",
+      "date": "29 September 2014"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+Search Engine Id:   017754066774365358043:lyjyorqiptq
+
+Project Id:   integral-hold-851
+
+API Key: AIzaSyCsNcs77aqfADGQu5qfQI8WlWzuC2u8MrU
+
+
+
+
+Resource
+https://developers.google.com/custom-search/json-api/v1/reference/cse/list#response
+
+
+
+https://www.googleapis.com/customsearch/v1?key=AIzaSyCsNcs77aqfADGQu5qfQI8WlWzuC2u8MrU&cx=017754066774365358043:lyjyorqiptq&q=end&alt=json
+
+https://www.googleapis.com/customsearch/v1?key=AIzaSyCsNcs77aqfADGQu5qfQI8WlWzuC2u8MrU&cx=017754066774365358043:lyjyorqiptq&q=["brasilia"] OR ["bromine"] OR ["poker"]&callback=SearchCompleted
+
+
+sites
+http://www.theiet.org/  IET_Sectors.jpg -
+http://engineering-jobs.theiet.org/ EnT_Jobs.jpg -
+http://eandt.theiet.org/index.cfm  EnT_Magazine.jpg -
+http://eandtmarketplace.theiet.org/ EnT_Marketplace.jpg -
+http://www.ietconnect.org/  IET_Connect.jpg  -
+http://digital-library.theiet.org/   IET_Digital_Library.jpg -
+http://electrical.theiet.org/index.cfm  IET_Electrical.jpg -
+http://faraday.theiet.org/index.cfm  IET_Faraday.jpg -
+http://www.ietvenues.co.uk/  IET_Venues.jpg -
+
+EnT_Magazine.jpg
+IET_Sectors.jpg
